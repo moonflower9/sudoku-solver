@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<div align="center">
+<p align="center">
 
   <!-- Contributors -->
   <a href="https://github.com/moonflower9/sudoku-solver/graphs/contributors">
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/github/license/moonflower9/sudoku-solver" alt="MIT License">
   </a>
 
-</div>
+</p>
 
 
 
