@@ -18,11 +18,32 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
+<div align="center">
+
+  <!-- Contributors -->
+  <a href="https://github.com/moonflower9/sudoku-solver/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/moonflower9/sudoku-solver" alt="Contributors">
+  </a>
+  <!-- Forks -->
+  <a href="https://github.com/moonflower9/sudoku-solver/network/members">
+    <img src="https://img.shields.io/github/forks/moonflower9/sudoku-solver" alt="Forks">
+  </a>
+  <!-- Stars -->
+  <a href="https://github.com/moonflower9/sudoku-solver/stargazers">
+    <img src="https://img.shields.io/github/stars/moonflower9/sudoku-solver" alt="Stargazers">
+  </a>
+  <!-- Issues -->
+  <a href="https://github.com/moonflower9/sudoku-solver/issues">
+    <img src="https://img.shields.io/github/issues/moonflower9/sudoku-solver" alt="Issues">
+  </a>
+  <!-- License -->
+  <a href="https://github.com/moonflower9/sudoku-solver/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/moonflower9/sudoku-solver" alt="MIT License">
+  </a>
+
+</div>
+
 
 
 <!-- PROJECT LOGO -->
