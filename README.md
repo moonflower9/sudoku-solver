@@ -20,28 +20,16 @@
 -->
 
 <p align="center">
-
-  <!-- Contributors -->
   <a href="https://github.com/moonflower9/sudoku-solver/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/moonflower9/sudoku-solver" alt="Contributors">
-  </a>
-  <!-- Forks -->
+    <img src="https://img.shields.io/github/contributors/moonflower9/sudoku-solver" alt="Contributors"></a>
   <a href="https://github.com/moonflower9/sudoku-solver/network/members">
-    <img src="https://img.shields.io/github/forks/moonflower9/sudoku-solver" alt="Forks">
-  </a>
-  <!-- Stars -->
+    <img src="https://img.shields.io/github/forks/moonflower9/sudoku-solver" alt="Forks"></a>
   <a href="https://github.com/moonflower9/sudoku-solver/stargazers">
-    <img src="https://img.shields.io/github/stars/moonflower9/sudoku-solver" alt="Stargazers">
-  </a>
-  <!-- Issues -->
+    <img src="https://img.shields.io/github/stars/moonflower9/sudoku-solver" alt="Stargazers"></a>
   <a href="https://github.com/moonflower9/sudoku-solver/issues">
-    <img src="https://img.shields.io/github/issues/moonflower9/sudoku-solver" alt="Issues">
-  </a>
-  <!-- License -->
+    <img src="https://img.shields.io/github/issues/moonflower9/sudoku-solver" alt="Issues"></a>
   <a href="https://github.com/moonflower9/sudoku-solver/blob/master/LICENSE.txt">
-    <img src="https://img.shields.io/github/license/moonflower9/sudoku-solver" alt="MIT License">
-  </a>
-
+    <img src="https://img.shields.io/github/license/moonflower9/sudoku-solver" alt="MIT License"></a>
 </p>
 
 
